@@ -1,0 +1,13 @@
+student_id,student_name,department,attendance_pct,exam_score,cgpa,study_hours_per_day
+1,Aarav,CSE,92,88,9.1,6
+2,Diya,ECE,85,91,8.7,7
+3,Ishaan,CSE,68,72,7,3
+4,Meera,IT,95,94,9.5,2
+5,Kabir,ECE,74,69,7.2,4
+6,Anaya,IT,81,86,8.1,5
+7,Rohan,CSE,59,64,6.4,2
+8,Sara,ECE,88,90,8.9,8
+9,Arjun,IT,77,79,7.8,5
+10,Ira,CSE,91,93,9.3,7
+11,Vivaan,ECE,66,70,6.8,3
+12,Tara,IT,84,82,8.3,6
